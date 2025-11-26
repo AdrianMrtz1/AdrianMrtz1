@@ -11,7 +11,14 @@
   <circle cx="700" cy="50" r="3" fill="#00ff66">
     <animate attributeName="cy" values="50;90;50" dur="5s" repeatCount="indefinite"/>
   </circle>
+  <circle cx="250" cy="150" r="3" fill="#00ff66">
+    <animate attributeName="cy" values="150;110;150" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="180" r="4" fill="#00ff66">
+    <animate attributeName="cy" values="180;140;180" dur="9s" repeatCount="indefinite"/>
+  </circle>
 
+  <!-- Text -->
   <text x="50%" y="55%" fill="#00ff66" font-family="monospace" font-size="40" text-anchor="middle">
     Adrian Martinez
   </text>
